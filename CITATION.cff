@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Mitochondrial-reprogramming roadmaps prioritise simulating membrane
+  potential and AMPK/PI3K/GLUT1 binding, but docking scores and tip-shift
+  anecdotes are easily smuggled into kinetic parameters. A frozen twelve-row
+  toy library is scored with a declared linear surrogate, not with a docking
+  engine. Claim level stops at a nomination for a future observation channel.
+  Promotion of a column-winning score into a kinetic rate, and promotion of a
+  roadmap G_tip anecdote, both return refused, and the parameter hash does
+  not change. A separate kinetic schedule has Fisher rank 4 of 4 and does not
+  read the scores. Not a medical device.
+keywords:
+  - mitochondrial membrane potential
+  - AMPK
+  - PI3K
+  - GLUT1
+  - surrogate score
+  - docking caveat
+  - claim-evidence gate
+  - parameter identifiability
+  - phytochemical library
+  - computational research
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen"
+repository-code: "https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen"
+preferred-citation:
+  type: thesis
+  title: "In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen"
+  notes: "Thesis #16 (R5). Computational research. Surrogate scores on a frozen toy library, not a docking run. No document DOI."
